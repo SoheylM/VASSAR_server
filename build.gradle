@@ -26,7 +26,7 @@ dependencies {
     compile 'seakers:orekit:1.0'
     compile 'gov.sandia:jess:7.1p2'
     compile 'seakers:system-architecture-problems:1.0'
-    compile 'seakers:vassar:1.0'
+    compile 'seakers:vassarheur:1.0'
     compile 'net.sourceforge.jexcelapi:jxl:2.6.12'
     compile 'org.moeaframework:moeaframework:2.12'
     compile 'org.apache.thrift:libthrift:0.12.0'
